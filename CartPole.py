@@ -1,4 +1,4 @@
-# CartPort by REINFORCE algorithm
+# CartPole by REINFORCE algorithm
 
 import gymnasium as gym
 import torch
